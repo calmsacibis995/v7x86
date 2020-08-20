@@ -1,5 +1,4 @@
 # n3ds-hacks
-Nintendo 3DS hacks and custom scripts for GodMode9
-
+GodMode9 custom scripts for old versions of the program.
 
 Warning! This repository is obsolete so there's nothing there. :)
