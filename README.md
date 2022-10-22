@@ -1,4 +1,3 @@
-# n3ds-hacks
-GodMode9 custom scripts for old versions of the program.
+#v7x86
 
-Warning! This repository is obsolete so there's nothing there. :)
+This is a fork of v7/x86, designed to maintain and update the operating system.
